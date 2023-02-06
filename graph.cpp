@@ -1,3 +1,10 @@
+/*
+ *  Grupo: 
+ *      Fabrício Alves Smargiasse - 202020117
+ *      Otávio Rodrigues de Faria - 202020784
+ *      Weverton Andrade Ferreira - 202020782
+ */
+
 #include <iostream>
 #include <fstream>
 #include <sstream>
